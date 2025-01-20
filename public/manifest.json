@@ -1,0 +1,15 @@
+{
+  "name": "search.sam302.de",
+  "shortname": "Startseite",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#b4befe",
+  "background_color": "#11111b"
+}
